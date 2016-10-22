@@ -1,0 +1,30 @@
+{
+  "name": "week11hangman",
+  "version": "1.0.0",
+  "description": "node js and constructor based hangman game ",
+  "main": "main.js",
+  "scripts": {
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edace91/Week11-Hangman.git"
+  },
+  "keywords": [
+    "hangman",
+    "node",
+    "js",
+    "nodejs",
+    "constructors",
+    "javascript"
+  ],
+  "author": "Eduardo Aceves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edace91/Week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/edace91/Week11-Hangman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
