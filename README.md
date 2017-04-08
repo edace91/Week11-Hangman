@@ -1,5 +1,5 @@
 # Week11-Hangman
-Hangman game will run entirely with **Node.js**.
+Hangman game which runs entirely with **Node.js**.
 
 ## Synopsis
 
