@@ -9,9 +9,8 @@ Takes the Hangman game and empowers it with JavaScript constructors. Unlike the 
 ## Project Structure
 
 Contains files **game.js**, **letter.js**, **main.js** and **word.js**.
-"_ This console-based hangman app incorporates objects, user-input, and constructors to create a functioning game_"
+This console-based hangman app incorporates objects, user-input, and constructors to create a functioning game.
 
-Both **letter.js** and **word.js** are constructor files:
 
 ### word.js: 
 contains all of the methods which check the letters guessed versus the random word selected.
@@ -19,7 +18,7 @@ contains all of the methods which check the letters guessed versus the random wo
 ### letter.js: 
 Controls whether or not a letter appears as a _ or as itself on-screen.
 
-#### game.js: 
+### game.js: 
 Randomly select a word for the player.
 
 ### main.js:
@@ -32,6 +31,6 @@ The app ends when a player guesses the correct word or runs out of guesses.
 
 ## Motivation
 
-Revisit an old application and make it a console based app on Node.js using constructors
+Revisit an old application and make it a console based app on Node.js using constructors.
 
 
