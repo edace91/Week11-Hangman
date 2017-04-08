@@ -12,25 +12,25 @@ Contains files **game.js**, **letter.js**, **main.js** and **word.js**.
 This console-based hangman app incorporates objects, user-input, and constructors to create a functioning game.
 
 
-### word.js: 
+### word.js 
 contains all of the methods which check the letters guessed versus the random word selected.
 
-### letter.js: 
+### letter.js
 Controls whether or not a letter appears as a _ or as itself on-screen.
 
-### game.js: 
+### game.js
 Randomly select a word for the player.
 
-### main.js:
+### main.js
 Contain the logic of the hangman app. 
 
-Running it in Terminal/Bash will start the game.
+Running the app in Terminal/Bash will start the game.
 The app ends when a player guesses the correct word or runs out of guesses.
 
 
 
 ## Motivation
 
-Revisit an old application and make it a console based app on Node.js using constructors.
+To revisit an old application and make it a console based app on **Node.js** using constructors.
 
 
